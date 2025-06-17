@@ -1,34 +1,30 @@
 Algoritmo "somaemediausuario"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/05/2024
+
 Var
-// Seção de Declarações das variáveis
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis
      num1, num2, num3, num4, num5, soma : inteiro
      media: real
 
 Inicio
 
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num1)
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num2)
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num3)
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num4)
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num5)
 
           media<- (num1 + num2 + num3 + num4 + num5)/5
 
-Escreval("O resultado da média é: ", media)
+Escreval("O resultado da mÃ©dia Ã©: ", media)
 
 
 
 Fimalgoritmo
 
-//algoritmo em pseudocódigo onde 5 números deverão ser somados, em seguida
-//calcule a média desses números e apresente na tela a soma e a média calculada.
+//algoritmo em pseudocÃ³digo onde 5 nÃºmeros deverÃ£o ser somados, em seguida
+//calcule a mÃ©dia desses nÃºmeros e apresente na tela a soma e a mÃ©dia calculada.
