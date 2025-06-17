@@ -1,24 +1,20 @@
 Algoritmo "se-senao"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/05/2024
+
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
      num1, num2: inteiro
 
 Inicio
 
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num1)
-Escreval("Digite um número: ")
+Escreval("Digite um nÃºmero: ")
 Leia(num2)
 
-Se num1< num2 então
-Escreval("O segundo número digitado é maior e portante equivale a: ", num2)
-Senão
-Escreval("Os números digitados foram: ", num1, num2)
+Se num1< num2 entÃ£o
+Escreval("O segundo nÃºmero digitado Ã© maior e portante equivale a: ", num2)
+SenÃ£o
+Escreval("Os nÃºmeros digitados foram: ", num1, num2)
 
 FIMSE
 
@@ -26,7 +22,7 @@ FIMSE
 
 Fimalgoritmo
 
-//desenvolva um algoritmo em pseudocódigo que solicita ao usuário digitar
-//2 números. Após o usuário digitar teste se o primeiro número digitado é
-//menor que o segundo número digitado, se verdadeiro mostre na tela o
-//número maior, senão mostre os 2 números digitados.
+//desenvolva um algoritmo em pseudocÃ³digo que solicita ao usuÃ¡rio digitar
+//2 nÃºmeros. ApÃ³s o usuÃ¡rio digitar teste se o primeiro nÃºmero digitado Ã©
+//menor que o segundo nÃºmero digitado, se verdadeiro mostre na tela o
+//nÃºmero maior, senÃ£o mostre os 2 nÃºmeros digitados.
