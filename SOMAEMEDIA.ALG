@@ -1,11 +1,7 @@
 Algoritmo "somaemedia"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 24/05/2024
+
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
      num1, num2, num3, num4, num5, soma : inteiro
      media: real
 
@@ -20,11 +16,11 @@ num5<- 12
 soma<- num1 + num2 + num3 + num4 + num5
 media<- 40/5
 
-Escreval("A soma dos 5 algarismos é: ", soma)
-Escreval("A média dos 5 algarismos é: ", media)
+Escreval("A soma dos 5 algarismos Ã©: ", soma)
+Escreval("A mÃ©dia dos 5 algarismos Ã©: ", media)
 
 
 Fimalgoritmo
 
-//algoritmo em pseudocódigo onde 5 números deverão ser somados, em seguida
-//calcule a média desses números e apresente na tela a soma e a média calculada.
+//algoritmo em pseudocÃ³digo onde 5 nÃºmeros deverÃ£o ser somados, em seguida
+//calcule a mÃ©dia desses nÃºmeros e apresente na tela a soma e a mÃ©dia calculada.
